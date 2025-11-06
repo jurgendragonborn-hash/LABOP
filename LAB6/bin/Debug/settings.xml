@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SnakeGameSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HollowColor>-1</HollowColor>
+  <SnakeColor>-16744448</SnakeColor>
+  <FoodColor>-65536</FoodColor>
+  <FieldHeight>20</FieldHeight>
+  <FieldWidth>20</FieldWidth>
+  <BlockHeight>30</BlockHeight>
+  <BlockWidth>30</BlockWidth>
+  <PastRecord>16</PastRecord>
+  <UpdateDelay>200</UpdateDelay>
+</SnakeGameSettings>

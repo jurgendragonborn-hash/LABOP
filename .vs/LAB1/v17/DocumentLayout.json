@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6296C8-684B-4EC2-AE33-D48FE9AD3558}|LAB5\\LAB5.csproj|d:\\projects\\lab1\\lab5\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6296C8-684B-4EC2-AE33-D48FE9AD3558}|LAB5\\LAB5.csproj|solutionrelative:lab5\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|d:\\projects\\lab1\\lab6\\toguessgamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\toguessgamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|D:\\Projects\\LAB1\\lab6\\tablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\tablehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|D:\\Projects\\LAB1\\lab6\\toguessinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\toguessinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|D:\\Projects\\LAB1\\lab6\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|D:\\Projects\\LAB1\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|D:\\Projects\\LAB1\\lab6\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FB9BF5-FA8C-4039-98AE-9E48A1355A18}|LAB6\\LAB6.csproj|solutionrelative:lab6\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB5\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "LAB5\\SnakeGame.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB5\\SnakeGame.cs",
+              "RelativeToolTip": "LAB5\\SnakeGame.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAcwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:06:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToGuessGameHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\ToGuessGameHelper.cs",
+              "RelativeDocumentMoniker": "LAB6\\ToGuessGameHelper.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\ToGuessGameHelper.cs",
+              "RelativeToolTip": "LAB6\\ToGuessGameHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:47:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\TableHelper.cs",
+              "RelativeDocumentMoniker": "LAB6\\TableHelper.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\TableHelper.cs",
+              "RelativeToolTip": "LAB6\\TableHelper.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:47:14.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToGuessInit.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\ToGuessInit.cs",
+              "RelativeDocumentMoniker": "LAB6\\ToGuessInit.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\ToGuessInit.cs",
+              "RelativeToolTip": "LAB6\\ToGuessInit.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:01:41.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "LAB6\\SnakeGame.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\SnakeGame.cs",
+              "RelativeToolTip": "LAB6\\SnakeGame.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:46:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB6\\Form1.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\Form1.cs",
+              "RelativeToolTip": "LAB6\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:46:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\LAB1\\LAB6\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "LAB6\\ArrayHelper.cs",
+              "ToolTip": "D:\\Projects\\LAB1\\LAB6\\ArrayHelper.cs",
+              "RelativeToolTip": "LAB6\\ArrayHelper.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:46:34.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

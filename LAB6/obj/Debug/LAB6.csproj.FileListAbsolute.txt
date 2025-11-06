@@ -1,0 +1,12 @@
+D:\Projects\LAB1\LAB6\bin\Debug\LAB6.exe.config
+D:\Projects\LAB1\LAB6\bin\Debug\LAB6.exe
+D:\Projects\LAB1\LAB6\bin\Debug\LAB6.pdb
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.csproj.AssemblyReference.cache
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.Properties.Resources.resources
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.csproj.GenerateResource.cache
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.csproj.CoreCompileInputs.cache
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.exe
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.pdb
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.exe.config
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.MainForm.resources
+D:\Projects\LAB1\LAB6\obj\Debug\LAB6.SnakeGameSettings.resources
